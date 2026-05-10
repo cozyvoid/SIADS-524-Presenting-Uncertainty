@@ -69,7 +69,7 @@ Many uncertain outcomes are not simply success/failure. In an election forecast,
 
 Wilke uses a hypothetical election in which the blue party is predicted to lead the yellow party by about one percentage point, with a margin of error. Instead of treating the forecast as “blue will win,” the chapter shows that there is a distribution of possible outcomes.
 
-![Recreated election prediction distribution](fdv_ch16_overview_assets/election_prediction_distribution.png)
+![!\[Recreated election prediction distribution\](fdv_ch16_overview_assets/election_prediction_distribution.png)](<Ch 16 images/election_prediction_distribution.png>)
 
 In this example:
 
