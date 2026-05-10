@@ -252,7 +252,7 @@ Frequentists assess uncertainty through confidence intervals and hypothesis-test
 - For one sample, the interval either contains the true parameter or it does not.
 - Across many repeated samples, a 95% confidence procedure captures the true parameter about 95% of the time.
 
-![Recreated repeated-sampling confidence interval schematic](fdv_ch16_overview_assets/repeated_sampling_ci.png)
+![!\[Recreated repeated-sampling confidence interval schematic\](fdv_ch16_overview_assets/repeated_sampling_ci.png)](<Ch 16 images/repeated_sampling_ci.png>)
 
 ### 5.2 Bayesian framing
 
