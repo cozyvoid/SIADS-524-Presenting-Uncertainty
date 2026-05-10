@@ -340,7 +340,7 @@ A **hypothetical outcome plot** (HOP) is an animated uncertainty visualization t
 
 This approach can reduce deterministic construal error because viewers are less likely to treat a single static boundary or band as a fixed truth.
 
-![Recreated HOP schematic](fdv_ch16_overview_assets/hop_schematic.png)
+![week 1/Ch 16 images/hop_schematic.png](<Ch 16 images/hop_schematic.png>)
 
 ### 7.2 Chocolate-rating example
 
