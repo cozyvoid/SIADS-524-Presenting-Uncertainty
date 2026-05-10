@@ -43,7 +43,7 @@ A single probability, such as “1% chance,” “10% chance,” or “40% chanc
 
 Wilke recommends **frequency framing**, where a probability is represented as a set of possible outcomes.
 
-![Recreated probability-frequency framing](fdv_ch16_overview_assets/probability_frequency_framing.png)
+![!\[Recreated probability-frequency framing\](fdv_ch16_overview_assets/probability_frequency_framing.png)](<Ch 16 images/probability_frequency_framing.png>)
 
 ### 2.3 Discrete outcome visualizations
 
