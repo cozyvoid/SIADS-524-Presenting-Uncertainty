@@ -294,7 +294,7 @@ Wilke’s example uses ridgeline plots of posterior distributions for chocolate-
 
 When a line or curve is fitted to data, the fit itself has uncertainty. A common way to display this uncertainty is a **confidence band** around the fitted trend.
 
-![Recreated curve-fit uncertainty](fdv_ch16_overview_assets/curve_fit_uncertainty.png)
+![!\[Recreated curve-fit uncertainty\](fdv_ch16_overview_assets/curve_fit_uncertainty.png)](<Ch 16 images/curve_fit_uncertainty.png>)
 
 The band represents a range of fitted lines or curves compatible with the data at a given confidence level.
 
