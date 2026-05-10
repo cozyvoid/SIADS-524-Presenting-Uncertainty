@@ -88,7 +88,7 @@ This is why the chapter introduces **quantile dotplots**.
 
 A **quantile dotplot** divides the probability distribution into equal-probability units and displays those units as dots.
 
-![Recreated quantile dotplot](fdv_ch16_overview_assets/quantile_dotplot_election.png)
+![!\[Recreated quantile dotplot\](fdv_ch16_overview_assets/quantile_dotplot_election.png)](<Ch 16 images/quantile_dotplot_election.png>)
 
 In a 10-dot version:
 
