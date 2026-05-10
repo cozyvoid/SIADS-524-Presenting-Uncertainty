@@ -126,7 +126,7 @@ Wilke explains point-estimate uncertainty by reviewing statistical sampling.
 | Sampling distribution | The distribution of estimates that would arise from repeated sampling |
 | Standard error | The spread of the sampling distribution; a measure of uncertainty in the estimate |
 
-![Recreated sampling concepts schematic](fdv_ch16_overview_assets/sampling_concepts_schematic.png)
+![!\[Recreated sampling concepts schematic\](fdv_ch16_overview_assets/sampling_concepts_schematic.png)](<Ch 16 images/sampling_concepts_schematic.png>)
 
 ### 4.2 Standard deviation vs. standard error
 
