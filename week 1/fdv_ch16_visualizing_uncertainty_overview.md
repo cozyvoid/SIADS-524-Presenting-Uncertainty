@@ -157,7 +157,7 @@ For example, error bars around a mean might represent:
 - a 95% confidence interval,
 - a 99% confidence interval.
 
-![Recreated error-bar comparison](fdv_ch16_overview_assets/error_bar_meaning_comparison.png)
+![!\[Recreated error-bar comparison\](fdv_ch16_overview_assets/error_bar_meaning_comparison.png)](<Ch 16 images/error_bar_meaning_comparison.png>)
 
 These intervals are related, but they communicate different claims. Therefore, Wilke’s rule is direct:
 
