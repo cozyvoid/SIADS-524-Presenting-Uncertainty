@@ -300,7 +300,8 @@ The results strongly support the article’s central argument.
 
 ## 13. Result Table and Mean Estimation
 
-![Page 13: Table 4 and Figure 4 showing mean absolute error by visualization condition](hop_article_overview_assets/page_13_table4_fig4_mean_error.png)
+![table 4, pg. 13](image-2.png)
+![fig. 4, pg. 13](image-3.png)
 
 **What this page shows:**  
 Table 4 summarizes mean absolute error across tasks and visualization conditions. Figure 4 focuses on estimating the mean. HOPs had higher error for high-variance mean estimation, while static plots performed better there.
@@ -315,7 +316,7 @@ This supports Hypothesis 1.
 
 ## 14. Probability Above a Threshold
 
-![Page 14: Figure 5 showing estimates of Pr(A > k)](hop_article_overview_assets/page_14_fig5_probability_threshold.png)
+![fig. 5, pg. 14](image-4.png)
 
 **What this page shows:**  
 Figure 5 compares participant errors when estimating the probability that A exceeds a threshold. The results were mixed and did not consistently favor violin plots.
@@ -330,7 +331,7 @@ This weakens Hypothesis 2.
 
 ## 15. Probability Between Two Thresholds
 
-![Page 15: Figure 6 showing estimates of interval probability](hop_article_overview_assets/page_15_fig6_interval_probability.png)
+![fig. 6, pg. 15](image-5.png)
 
 **What this page shows:**  
 Figure 6 compares performance on estimating the probability that A falls between two threshold values. Again, no single visualization clearly dominates across all cases.
@@ -343,7 +344,7 @@ Error bars performed worse in one low-variance condition, while HOPs performed w
 
 ## 16. Two-Variable Ordering: The Major Result
 
-![Page 16: Figure 7 showing estimates of Pr(B > A)](hop_article_overview_assets/page_16_fig7_bivariate_ordering.png)
+![fig. 7, pg. 16](image-6.png)
 
 **What this page shows:**  
 Figure 7 presents the most important result: HOPs produced far lower absolute error than error bars or violin plots when participants estimated how often B was greater than A.
@@ -371,7 +372,7 @@ The correlated case was particularly difficult for static plots because they did
 
 ## 17. Three-Variable Ordering
 
-![Page 17: Figure 8 showing estimates of Pr(B > A and B > C)](hop_article_overview_assets/page_17_fig8_trivariate_ordering.png)
+![fig. 8, pg. 17](image-7.png)
 
 **What this page shows:**  
 Figure 8 shows that HOPs again produced substantially lower error when participants estimated how often B was greater than both A and C.
@@ -457,7 +458,7 @@ The authors suggest future work should systematically test frame rates and inter
 
 ## 21. HOPs Compared with Gradient Plots
 
-![Page 21: Figure 9 showing a gradient plot](hop_article_overview_assets/page_21_fig9_gradient_plot.png)
+![fig. 9, pg. 21](image-8.png)
 
 **What this page shows:**  
 Figure 9 shows a gradient plot, where probability density is encoded by mark opacity. The authors compare this to HOPs by describing HOPs as encoding density through “blink rate,” meaning values that occur more often appear more often across frames.
