@@ -100,7 +100,8 @@ This makes the task closer to counting or estimating relative frequency, which m
 
 The article compares error bars, violin plots, and HOPs using the same underlying distributions.
 
-![Page 2: Figure 1 and Figure 2 comparing error bars, violin plots, and HOPs](hop_article_overview_assets/page_02_fig1_fig2_errorbars_violin_hops.png)
+![image 1, pg. 2](image.png)
+![image 2, pg. 2](image-1.png)
 
 **What this page shows:**  
 Figure 1 illustrates the motivating solute example where viewers estimate whether B exceeds A. Figure 2 compares the three experimental visualization conditions: error bars, violin plots, and selected frames from a HOP animation.
